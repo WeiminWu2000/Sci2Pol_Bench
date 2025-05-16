@@ -53,7 +53,7 @@ python LLM_infer.py --model anthropic/claude-3-7-sonnet --task task1
 ### Tasks
 task1 ~ task19
 
-## LLM Inference for All 19 Tasks (Use Gemini-2.5-Pro as Judge)
+## Evaluation of Inference Results for All 19 Tasks (Use Gemini-2.5-Pro as Judge)
 
 ```
 python Eval.py --model grok/grok-3-beta
