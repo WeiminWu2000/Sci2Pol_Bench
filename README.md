@@ -17,6 +17,8 @@ conda activate Sci2Pol
 pip install -r requirements.txt
 ```
 
+** Running the code needs inferenci API for LLMs, some of them are not free **
+
 ## Dataset
 
 ### Huggerface link
