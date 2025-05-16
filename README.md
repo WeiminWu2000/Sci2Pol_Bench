@@ -1,5 +1,8 @@
 # Sci2Pol-Bench: A Benchmark for LLM Policy Brief Generation from Scientific Research
 
+[Sci2Pol.pdf](https://github.com/user-attachments/files/20240610/Sci2Pol.pdf)
+
+
 ## Setup environment
 
 We use Python 3.10.4.
