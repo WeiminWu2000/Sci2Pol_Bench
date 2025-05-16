@@ -1,6 +1,7 @@
 # Sci2Pol-Bench: A Benchmark for LLM Policy Brief Generation from Scientific Research
 
-[Sci2Pol.pdf](https://github.com/user-attachments/files/20240610/Sci2Pol.pdf)
+<img width="673" alt="Screenshot 2025-05-16 at 3 24 05 AM" src="https://github.com/user-attachments/assets/e23908cb-e73e-43de-9b69-ffad7d7c2334" />
+
 
 
 ## Setup environment
