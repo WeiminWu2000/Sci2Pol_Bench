@@ -23,9 +23,7 @@ https://huggingface.co/datasets/Weimin2000/Sci2Pol_Bench
 
 '''
 from huggingface_hub import hf_hub_download
-
 task_files = [f"task{i}.jsonl" for i in range(1, 20)]
-
 for file in task_files:
     hf_hub_download(
         repo_id="Weimin2000/Sci2Pol_Bench",
